@@ -45,7 +45,7 @@ Follow these simple steps to get the project running on your local machine:
 
 ```bash
 # If you have git installed:
-git clone <repository-url>
+git clone https://github.com/Xeron07/Custom_Captcha.git
 cd Custom_Captcha
 
 # Or just download and extract the ZIP file, then navigate to the folder
